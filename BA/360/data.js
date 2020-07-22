@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-panorama6",
-      "name": "Panorama6",
+      "id": "0-eingang",
+      "name": "Eingang",
       "levels": [
         {
           "tileSize": 256,
@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.18011425559863525,
-          "pitch": -0.0914993098434671,
+          "yaw": -0.17858499366185754,
+          "pitch": -0.0944359156495338,
           "rotation": 0,
-          "target": "1-panorama8"
+          "target": "1-forum"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-panorama8",
-      "name": "Panorama8",
+      "id": "1-forum",
+      "name": "Forum",
       "levels": [
         {
           "tileSize": 256,
